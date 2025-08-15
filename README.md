@@ -9,7 +9,7 @@ Inclui:
 - 📚 Principais obras  
 
 
-🛠️ Tecnologias Utilizadas  
+🛠️ Tecnologias Utilizadas:
 - **Frontend:** HTML, CSS, JavaScript  
 - **Estilização:** CSS puro  
 - **Funcionalidades interativas:** JavaScript  
