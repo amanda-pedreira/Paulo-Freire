@@ -19,3 +19,7 @@ Inclui:
 ---
 
 💬 *"Educar é impregnar de sentido o que fazemos a cada instante." — Paulo Freire*
+
+
+
+[![Ver Site Ao Vivo](https://img.shields.io/badge/Ver_Live-Click_here-blue)](https://amanda-pedreira.github.io/Paulo-Freire/)
