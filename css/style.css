@@ -1,0 +1,129 @@
+
+/* html{
+    scroll-behavior: smooth;
+} */
+
+/* Feito por Amanda Luana, Daniel Lopes, Lucas Xavier, Miriam Caldas, Nicolás Corral e Pedro Gualberto!!  */
+
+body{
+    /* background-color: #9e9e9dcb; */
+    background: url(../imgs/Pauloback2.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+   }
+
+
+#seta {
+    height: 100vh;
+    background-image: url('./img/background.jpg');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    
+  }
+  
+  #seta > img {
+    width: 140px;
+    margin-bottom: 28%;
+    animation: jumping 1s linear infinite;
+    cursor: pointer;
+  }
+  
+  @keyframes jumping {
+    from {transform: translateY(-15px);}
+    50% {transform: translateY(0);}
+    to {transform: translateY(-15px);}
+  }
+ /* fim da setinha */
+
+@keyframes aparecer {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+.textos{
+    animation: aparecer 5s;
+}
+
+.nav{
+ color: #fff;
+ font-size: 1.5em;
+ margin-top: -2.5%;
+ text-shadow: 0.1em 0.0em 0.1em rgb(0, 0, 0);
+}
+
+.nav:hover{
+    color:  rgb(189, 93, 56) ;
+    font-size: 1.4em;
+    margin-top: -2.5%;
+    text-shadow: 0.1em 0.0em 0.1em black;
+   }
+
+h2{
+    margin-top: 1%;
+    font-size: 3em;
+    color: #FFF;
+    text-shadow: 0.1em 0.0em 0.1em black;
+}
+
+.f{
+    color: rgb(189,93,56);
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 0.1em 0.0em 0.1em black;
+}
+
+
+
+/* .bg_video{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width:100%;
+    height: 100%;
+    z-index: -100;
+    background-size: cover;
+
+} */
+
+.black{
+    color: #000;
+    font-size: 1.5em;
+}
+
+.black:hover{
+    color: rgb(189, 93, 56) ;
+    font-size: 1.5em;
+}
+
+.containerc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.redonda{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    border: 5px solid #8d8d8d96;
+    margin-top: 5%;
+}
+
+
+.textofreire{
+    color: #FFF;
+    margin-left: 60%;
+    margin-top: 23%;
+    text-shadow: 0.7em 0.4em 0.3em black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
