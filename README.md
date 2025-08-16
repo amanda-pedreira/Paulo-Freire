@@ -1,11 +1,11 @@
 # 📚 Site em Homenagem a Paulo Freire
 
-[![Ver Site Ao Vivo](https://img.shields.io/badge/Ver_Live-Click_here-blue?style=for-the-badge)](https://amanda-pedreira.github.io/Paulo-Freire/)
+[![Ver Site Ao Vivo]](https://amanda-pedreira.github.io/Paulo-Freire/)
 
 ---
 
 ✨ **Sobre o Projeto**  
-O site foi criado para celebrar e divulgar a **vida e o legado de Paulo Freire**, destacando sua contribuição para a educação e o pensamento crítico no Brasil e no mundo.  
+O site foi criado em dupla para celebrar e divulgar a **vida e o legado de Paulo Freire**, destacando sua contribuição para a educação e o pensamento crítico no Brasil e no mundo.  
 
 Inclui:  
 - 📖 Biografia e trajetória  
